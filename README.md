@@ -2,7 +2,7 @@
 
 Hello 👋🏻
 
-This is  a new project with som tips about python programming for testers❤️
+This is a new project with some tips about python programming for testers❤️
 
 Tools
 
